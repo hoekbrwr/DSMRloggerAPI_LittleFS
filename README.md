@@ -1,5 +1,5 @@
-# DSMRloggerAPI
-Firmware for the DSMR-logger using only API call's
+# DSMRloggerAPI_LittleFS
+Firmware for the DSMR-logger using only API call's and using LittleFS
 
 [Here](https://willem.aandewiel.nl/index.php/2019/04/09/dsmr-logger-v4-slimme-meter-uitlezer/) and
 [here](https://willem.aandewiel.nl/index.php/2020/02/28/restapis-zijn-hip-nieuwe-firmware-voor-de-dsmr-logger/)
