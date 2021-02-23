@@ -8,7 +8,6 @@
                 "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\**",
                 "c:\\Program Files (x86)\\Arduino\\libraries\\**",
                 "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\**",
-                "C:/Program Files (x86)/Arduino/hardware/arduino/avr/libraries/SPI/src"
             ],
             "forcedInclude": [],
             "defines": [
