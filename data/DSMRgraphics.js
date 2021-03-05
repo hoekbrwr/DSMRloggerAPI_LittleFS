@@ -54,7 +54,7 @@ var hourOptions = {
             },
             scaleLabel: {
               display: true,
-              labelString: 'Watt/Uur',
+              labelString: 'Wh',
             },
           }]
         } // scales
@@ -123,7 +123,7 @@ var myGasChart;
 
     var ctxGas = document.getElementById("gasChart").getContext("2d");
     myGasChart = new Chart(ctxGas, {
-      type: 'line',
+      type: 'bar',
       data: dataSet,
       options: {
         responsive: true,
