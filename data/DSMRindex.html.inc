@@ -99,7 +99,7 @@
         <thead>
           <tr>
             <th style="text-align: center; border-bottom: 2px solid #ddd;">Date/Time</th>
-            <th style="text-align: right;  border-bottom: 2px solid #ddd;">Energie<br>Verbruik<br>(Watt)</th>
+            <th style="text-align: right;  border-bottom: 2px solid #ddd;">Energie<br>Verbruik<br>(Watth)</th>
             <th style="text-align: right;  border-bottom: 2px solid #ddd;">Energie<br>Teruglevering<br>(Watt)</th>
             <th style="text-align: right;  border-bottom: 2px solid #ddd;">Gas-<br>verbruik<br>(m3)</th>
         <!--<th style="text-align: right;  border-bottom: 2px solid #ddd;">Kosten</th>-->

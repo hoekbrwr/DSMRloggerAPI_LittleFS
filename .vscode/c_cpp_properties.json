@@ -3,18 +3,22 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
                 "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
-                "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\**",
+                "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\**",
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\**",
+                "C:\\Program Files (x86)\\Arduino\\libraries\\**",
+                "F:\\UsersLeoDocuments\\DIY\\Arduino\\Libraries\\**",
+                "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\**",
+                "${workspaceFolder}\\**",
                 "c:\\Program Files (x86)\\Arduino\\libraries\\**",
-                "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\**",
+                "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\**"
             ],
             "forcedInclude": [],
             "defines": [
                 "USBCON"
             ],
             "intelliSenseMode": "windows-msvc-x64",
-            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.27.29110\\bin\\Hostx64\\x64\\cl.exe",
             "cStandard": "c17",
             "cppStandard": "c++17"
         }
