@@ -164,7 +164,9 @@ void setup()
     int8_t sPos = String(_FW_VERSION).indexOf(' ');
     snprintf(cMsg, sizeof(cMsg), "(c)2020 [%s]", String(_FW_VERSION).substring(0, sPos).c_str());
     oled_Print_Msg(1, cMsg, 0);
-    oled_Print_Msg(2, " Willem Aandewiel", 0);
+    #ifdef USE_LITTLEFS
+      oled_Print_Msg(2, " LittleFS gebruikt!", 0);
+    #endif
     oled_Print_Msg(3, " >> Have fun!! <<", 1000);
     yield();
   }
