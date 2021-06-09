@@ -64,9 +64,9 @@
       <table id="actualTable">
       <thead>
         <tr>
-            <th style="text-align: left;   border-bottom: 2px solid #ddd;">Name</th>
-            <th style="text-align: left;   border-bottom: 2px solid #ddd;">Value</th>
-            <th style="text-align: center; border-bottom: 2px solid #ddd;">Unit</th>
+            <th style="text-align: left;   border-bottom: 2px solid #ddd;">Naam</th>
+            <th style="text-align: left;   border-bottom: 2px solid #ddd;">Waarde</th>
+            <th style="text-align: center; border-bottom: 2px solid #ddd;">Eenheid</th>
         </tr>
       </thead>
       <tbody>

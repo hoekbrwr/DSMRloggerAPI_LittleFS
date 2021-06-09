@@ -1,0 +1,262 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\cores\\esp8266"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\variants\\d1_mini"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "TimeLib.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\Time"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "TelnetStream.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\TelnetStream\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "ESP8266WiFi.h",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "LittleFS.h",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\LittleFS\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "dsmr.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\arduino-dsmr-master\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "SSD1306Ascii.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\SSD1306Ascii-master\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\Wire"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "ESP8266WebServer.h",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WebServer\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "ESP8266mDNS.h",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "ModUpdateServer.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\ModUpdateServer\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "WiFiManager.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\WiFiManager"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "DNSServer.h",
+    "Includepath": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\DNSServer\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "PubSubClient.h",
+    "Includepath": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\pubsubclient\\src"
+  },
+  {
+    "Sourcefile": "f:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\DSMRloggerAPI_LittleFS\\ArduinoOutput\\sketch\\DSMRloggerAPI_LittleFS.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\Time\\DateStrings.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\Time\\Time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\TelnetStream\\src\\TelnetPrint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\TelnetStream\\src\\TelnetStream.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\BearSSLHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\CertStoreBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiGratuitous.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA-WPS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\ESP8266WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\WiFiClientSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\WiFiServerSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WiFi\\src\\enable_wifi_at_boot_time.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\LittleFS\\src\\LittleFS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\LittleFS\\src\\lfs.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\LittleFS\\src\\lfs_util.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\arduino-dsmr-master\\src\\dsmr\\fields.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\SSD1306Ascii-master\\src\\SSD1306Ascii.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\Wire\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266WebServer\\src\\detail\\mimetable.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src\\ESP8266mDNS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src\\LEAmDNS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Control.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Helpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Structs.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\ESP8266mDNS\\src\\LEAmDNS_Transfer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\WiFiManager\\WiFiManager.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Leo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\3.0.0\\libraries\\DNSServer\\src\\DNSServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\UsersLeoDocuments\\DIY\\Arduino\\Projects\\libraries\\pubsubclient\\src\\PubSubClient.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
